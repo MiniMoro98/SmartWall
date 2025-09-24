@@ -1,0 +1,5 @@
+name: SmartWall
+version: '1.0.0'
+main: it.moro.smartWall.SmartWall
+api-version: '1.21'
+author: MiniMoro
